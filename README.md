@@ -14,7 +14,7 @@ The goal is not just visualization, but extracting meaningful insights that can 
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](dashboard_images/Grade 1.png)
+![Dashboard](dashboard_images/Grade_1.png)
 
 ---
 
