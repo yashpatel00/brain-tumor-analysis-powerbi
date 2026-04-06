@@ -32,4 +32,20 @@ The goal is not just visualization, but extracting meaningful insights that can 
 
 ---
 
-## 📁 Project Structure
+---
+
+## 🚀 Next Steps
+
+- Perform detailed data analysis using Python (EDA & statistical insights)
+- Explore relationships between tumor type, age, and region
+- Add predictive modeling for deeper understanding
+- Enhance storytelling with advanced visuals
+
+---
+
+## 🎯 Purpose
+
+This project demonstrates how raw healthcare data can be transformed into actionable insights using analytics and visualization tools.
+
+## Author
+Yash Patel
