@@ -1,15 +1,15 @@
 # Brain Tumor Analysis Dashboard
 
 ## 📌 Overview
-This project analyzes brain tumor data to identify patterns in patient demographics, tumor characteristics, and diagnosis trends. 
+This project analyzes brain tumor data to uncover patterns in patient demographics, tumor characteristics, and diagnosis trends.
 
-The goal is not just visualization, but extracting meaningful insights that can support data-driven understanding of tumor distribution.
+The objective is not just to visualize data, but to identify meaningful patterns that can support data-driven understanding of tumor distribution.
 
 ---
 
 ## 🛠️ Tools Used
 - Power BI (Dashboard & Visualization)
-- Python (In Progress – for deeper analysis)
+- Python (Planned for deeper analysis)
 
 ---
 
@@ -20,15 +20,15 @@ The goal is not just visualization, but extracting meaningful insights that can 
 
 ## 🔍 Key Insights
 
-- Patients in the **41–60 and 60+ age groups** show the highest number of diagnosed cases, indicating higher risk in older populations.
+- **Higher incidence in older age groups:** Patients aged **41–60 and 60+** account for the largest share of diagnosed cases.
 
-- **Cerebellum and Pituitary regions** are among the most frequently affected brain areas, suggesting concentration of tumor occurrence.
+- **Concentration in specific brain regions:** Tumors are most frequently observed in the **Cerebellum and Pituitary**, indicating localized distribution patterns.
 
-- **Glioma appears as the dominant tumor type**, followed by other tumor categories with lower distribution.
+- **Dominance of specific tumor types:** **Glioma** represents the most common tumor type across the dataset.
 
-- Tumor size varies across categories, but **larger variations are seen within certain tumor types**, indicating heterogeneity in progression.
+- **Variation in tumor size:** Tumor size distribution differs across categories, suggesting variability in tumor progression and detection.
 
-- Diagnosis trends across years show **fluctuations rather than steady growth**, which may reflect changes in detection, reporting, or data collection.
+- **Fluctuating diagnosis trends:** Yearly diagnosis patterns are inconsistent, which may reflect changes in reporting, detection, or data collection.
 
 ---
 
@@ -36,16 +36,18 @@ The goal is not just visualization, but extracting meaningful insights that can 
 
 ## 🚀 Next Steps
 
-- Perform detailed data analysis using Python (EDA & statistical insights)
-- Explore relationships between tumor type, age, and region
-- Add predictive modeling for deeper understanding
-- Enhance storytelling with advanced visuals
+- Perform exploratory data analysis (EDA) in Python
+- Validate insights using statistical analysis
+- Analyze relationships between tumor type, age group, and brain region
+- Enhance dashboard with deeper analytical insights
 
 ---
 
 ## 🎯 Purpose
 
-This project demonstrates how raw healthcare data can be transformed into actionable insights using analytics and visualization tools.
+This project demonstrates the ability to transform raw healthcare data into structured insights using data visualization and analytical thinking.
 
-## Author
+---
+
+## 👤 Author
 Yash Patel
